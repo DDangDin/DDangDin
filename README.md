@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=966CF1&height=300&section=header&text=SangJin&fontSize=70&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=966CF1&height=250&section=header&text=SangJin&fontSize=70&fontColor=FFFFFF)
 
 ## 🎨 Tech Stack
 
