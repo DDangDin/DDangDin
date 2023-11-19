@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=966CF1&height=250&section=header&text=SangJin&fontSize=70&fontColor=FFFFFF)
 
+## 안녕하세요 안드로이드 신입 개발자입니다!
+
 ## 🎨 Tech Stack
 
 #### Languages
