@@ -1,4 +1,4 @@
-## Android Engineer
+## Android Developer
 
 ### Tech
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,figma)](https://skillicons.dev)
