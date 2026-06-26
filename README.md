@@ -1,4 +1,4 @@
-## 유에서 유를 창조하는 개발자입니다!
+## 더 나은 내일의 나를 위해 달리는 개발자
 
 ### Tech
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,figma)](https://skillicons.dev)
