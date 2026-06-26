@@ -1,4 +1,4 @@
-## 더 나은 내일의 나를 위해 달리는 개발자
+## Android Engineer
 
 ### Tech
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,figma)](https://skillicons.dev)
